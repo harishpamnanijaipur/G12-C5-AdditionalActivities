@@ -1,6 +1,6 @@
 list=[]
 
 for i in range(0,10):
-    Write Code here
+    list.append(random.randint(0,100))
 
 print(list)   
